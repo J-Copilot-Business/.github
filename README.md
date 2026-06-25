@@ -1,1 +1,3 @@
-# .github
+# J-Copilot-Business Organization Public Settings
+
+Settings seen by the general public when visiting the organization at https://github.com/J-Copilot-Business
